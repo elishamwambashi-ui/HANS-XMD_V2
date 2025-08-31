@@ -41,7 +41,7 @@ global.prefa = ['','!','.','#','/']
 
 
 //bot settings
-global.autolikestatus = true //For auto react Status Random
+global.virus = true //creating a virus folder
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = true //auto typing + recording
